@@ -114,6 +114,8 @@ Estratégias de um jogador ativo     ✅ Pronto
 📌 LICENÇA
 
 Open-source sob MIT - use, modifique e batalhe como um verdadeiro clashzeiro!
+----------------------------------------------------------------------------------------------------
 
 Feito com raiva de Torre Inferno e amor por 3 coroas em Rondonópolis/MT!
+
 "Se não tá ganhando, é porque não viu esse app ainda!" 😎📱
